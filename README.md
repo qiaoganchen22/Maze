@@ -1,4 +1,8 @@
 ## Introduction
+
+![maze](https://user-images.githubusercontent.com/38334354/117198309-df7b8780-adb6-11eb-8f2e-f0a23ab35742.png)
+
+
 Maze navigating and pathfinding is a common task in games. For Pac-Man for example, we
 might be given the task of finding a path that leads the ghost to Pac-Man. Pathfinding is also
 common in other applications such as getting directions from a GPS.
