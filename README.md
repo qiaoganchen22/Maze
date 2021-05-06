@@ -1,6 +1,6 @@
 ## Introduction
 
-![maze](https://user-images.githubusercontent.com/38334354/117198309-df7b8780-adb6-11eb-8f2e-f0a23ab35742.png)
+![maze](https://user-images.githubusercontent.com/38334354/117333245-ba465200-ae66-11eb-8b31-8c395e5bf633.jpg)
 
 
 Maze navigating and pathfinding is a common task in games. For Pac-Man for example, we
